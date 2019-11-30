@@ -1,0 +1,13 @@
+{
+  "name": "libraryestimate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Olivier Chemla",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
